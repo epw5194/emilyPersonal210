@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--this is a comment, you can put it anywhere (Metadata)-->
+<!-- find a word for association, like "with" (so it doesnt have to be included inside another tag but goes without saying that one thing is associated witht he other) (kind of like using "alt") and without having to change the content/text-->
+<!-- found myself wanting to delete content filler words- is this okay?  -->
+<root>
+    <title>Country Loaf (Pain de Campagne)</title>
+    <authorInfo><author><name part="First">Deb </name>
+            <name part="Last">Lindsey</name></author> for <pubTitle>The Washington
+        Post</pubTitle></authorInfo>
+    <date>
+        <month>SEP</month>
+        <day>10</day>, <year>2014</year></date>
+    <para>Washington author Sam Fromartz has been making sourdough variations of this yeast bread
+        for years. Here, he adds fermented cider for flavor. A mild beer may be substituted; an IPA
+        would be too bitter. The loaf is sized to last a few days.</para>
+    <para>The optional tablespoon of water is to compensate for the variable absorption of the rye
+        and whole-wheat flours.</para>
+    <para>You'll need a colander, a pastry cloth or clean dish towel and a covered cast-iron or
+        enameled cast-iron pot. Make Ahead: The dough needs four 20-minute rests, plus an
+        8-to-24-hour stay in the refrigerator and a final 1 1/2-hour rise.</para>
+    <para>Storage Notes: Store the cooled loaf in a paper bag for a day, and store in a plastic bag
+        for a few days after that. Do not refrigerate.</para>
+    <servingInfo><heading>SERVINGS</heading>: <serving type="tested">Tested size:
+                <quant>10-12</quant>
+            <unit>servings</unit></serving>; <unit>makes one</unit>
+        <quant>11-ounce loaf</quant>
+        <quant>10 to 12</quant>
+        <unit>slices</unit></servingInfo>
+    <ingredientList>
+        <heading>INGREDIENTS</heading>
+        <item num="1" xml:id="wbf">
+            <measure>
+                <quant num="1.25">1 1/4 <unit>cups</unit></quant>
+                <alt>
+                    <quant>160</quant>
+                    <unit>grams</unit>
+                </alt>
+            </measure>
+            <ing> white bread flour <tip>plus more for dusting</tip></ing>
+        </item>
+        <item num="2" xml:id="wwf">
+            <measure>
+                <quant num="0.25">1/4</quant>
+                <unit>cup</unit>
+                <alt>
+                    <quant>38</quant>
+                    <unit>grams</unit>
+                </alt>
+            </measure>
+            <ing> stone-ground whole-wheat flour</ing>
+        </item>
+        <item num="3" xml:id="wrf">
+            <measure>
+                <quant>1/4</quant>
+                <unit>cup</unit>
+                <alt>
+                    <quant>32</quant>
+                    <unit>grams</unit>
+                </alt>
+            </measure>
+            <ing>stone-ground whole rye flour</ing>
+        </item>
+        <item num="4" xml:id="iy">
+            <measure>
+                <quant>1/2</quant>
+                <unit>teaspoon</unit>
+            </measure>
+            <ing>instant yeast or bread machine yeast</ing>
+        </item>
+        <item num="5" xml:id="ts">
+            <measure>
+                <quant>1</quant>
+                <unit>teaspoon</unit>
+            </measure>
+            <ing> table salt</ing>
+        </item>
+        <item num="6" xml:id="fc">
+            <measure>
+                <quant>1/4</quant>
+                <unit>cup</unit>
+                <alt>
+                    <quant>55</quant>
+                    <unit>grams</unit>
+                </alt>
+            </measure>
+            <ing>dry fermented cider<tip>may substitute <ing>Pilsener beer</ing>
+                    <tip>see headnote</tip></tip></ing>
+        </item>
+        <item num="7" xml:id="lww">
+            <measure>
+                <quant>1/2</quant>
+                <unit>cup</unit>
+                <alt>
+                    <quant>120</quant>
+                    <unit>grams</unit>
+                </alt>
+            </measure>
+            <ing>lukewarm water <temp><quant>80</quant>
+                    <unit>degrees</unit></temp>
+                <alt>plus an optional <measure><quant>1</quant>
+                        <unit>tablespoon</unit></measure></alt></ing>
+        </item>
+    </ingredientList>
+    <directions>
+        <heading>DIRECTIONS</heading>
+        <para>
+            <step num="0"><action>Whisk </action>together the <ing>flours</ing>
+                <ing>yeast</ing> and <ing>salt</ing> in a <utensil>mixing bowl</utensil>
+            </step>
+            <step num="1"><action>Combine</action> the <ing>cider</ing> and <ing>water</ing>in a
+                    <utensil>liquid measuring cup</utensil>.</step>
+            <step num="2"><action>Add</action> the liquid to the flour mixture; use a
+                    <utensil>spatula</utensil> or <utensil>bench scraper</utensil> or your
+                    <utensil>hand moistened with water</utensil> to blend them for about a
+                    minute.<tip>The dough should be
+                    <!--want to do soemthing with these words-->shaggy yet cohesive.</tip></step>
+            <step num="3"><action>Cover</action> the <utensil>bowl</utensil> with a
+                    <utensil>towel</utensil> let the dough rest for <time><quant>20</quant>
+                    <unit>minutes</unit></time></step>
+            <step num="4"><action>Moisten</action> your kneading hand <tip>If the dough seems stiff,
+                    add the optional <measure>tablespoon</measure> of <ing>water</ing></tip>
+            </step>
+            <step num="5"><action>Stretch</action> one edge of the dough <tip>still in the
+                    bowl</tip> then <action>press</action> it into the center of the bowl </step>
+            <step num="6">Repeat this about a dozen times,
+                <!-- want to do something with this -->moving clockwise to catch all sides of the
+                dough <tip>This should take <time><quant>1-2</quant>
+                        <unit>minutes</unit></time></tip>
+            </step>
+            <step num="7"><action>Turn</action> the <ing>dough</ing>
+                <tip>over so the seams are on the bottom</tip></step>
+            <step num="8"><action>Cover</action> and <action>let rest</action> for
+                        <time><quant>20</quant>
+                    <unit>minutes</unit></time>.</step>
+            <step num="9"><action>Repeat</action> the <!--want to do something here-->clockwise
+                stretching and folding <quant num="2">two more times</quant> with
+                        <time><quant>20</quant><unit>minute</unit></time>
+                <action>rests after each </action></step>. <step num="10"><action>Cover</action> and
+                    <action>refrigerate</action>
+                <time><min><quant>8</quant>
+                        <unit>hours</unit></min><max><quant>24</quant>
+                        <unit>hours</unit></max></time>
+                <tip> The dough should have <quant num="2">doubled</quant>. If it hasn't, leave it
+                    on the counter until it does.</tip></step>
+            <step num="11">Lightly <action>flour</action> a <utensil>work surface</utensil></step>
+            <step num="12"><action>Use</action> a <utensil>pastry cloth</utensil> or <utensil>clean
+                    dish towel</utensil> to <action>line <utensil>a round colander</utensil>
+                </action><action>Dust <utensil>cloth</utensil>with<ing>flour</ing></action></step>
+            <step num="13"><action>Transfer </action>the <ing>dough</ing> to the <utensil>floured
+                    work surface</utensil>
+            </step>
+            <step num="14"><action>Fold</action> the <!-- as an ingredient oraction? -->edges toward
+                the center to create a round shape <action>turning it over</action> so the
+                    <tip>seams are on the bottom</tip></step>
+            <step num="15">Let it rest for <time><quant>5</quant>
+                    <unit>minutes</unit></time> then <action>transfer</action> to the
+                    <utensil>colander</utensil>, <tip>seam side up</tip></step>
+            <step num="16"><action>Cover</action> with a <utensil>towel</utensil> and let the
+                    <ing>dough</ing>
+                <action>rise<time><quant num="1.5">1 1/2</quant>
+                        <unit>hours</unit></time></action>
+            </step>
+            <step num="17"><time><quant num="30">Thirty</quant><unit>minutes</unit></time> before
+                    <action>baking</action>, place a <utensil>cast-iron Dutch oven <tip>lid
+                    on</tip></utensil>
+                <alt><utensil>enameled cast-iron pot <tip>lid on</tip></utensil>
+                    <action>in the oven</action></alt><action>preheat</action> to
+                        <temp><quant>475</quant>
+                    <unit>degrees</unit></temp></step>
+            <step num="18">Carefully <action>remove</action> the <utensil>hot pot</utensil> from the
+                oven</step>
+            <step num="19"><action>Turn</action> the <ing>dough</ing> out onto the
+                    <utensil>counter</utensil> so the <tip>seams are on the bottom</tip></step>
+            <step num="20">Use <utensil>kitchen scissors</utensil>
+                <action> make snips</action><quant>8</quant> on the top of the dough in an evenly
+                spaced spoke pattern, each about <measure><quant num="0.25">1/4</quant><unit>inch
+                        deep</unit></measure>
+            </step>
+            <step num="21"><action>Lift </action>the <ing>dough</ing> and carefully <action>drop
+                    into</action>
+                <utensil>hot pot</utensil><action>Immediately cover</action> with the <utensil>hot
+                    lid</utensil></step>
+            <step num="22">Bake for <time><quant>30</quant><unit> minutes</unit></time>, then reduce
+                the heat to <temp><quant>450</quant>
+                    <unit>degrees</unit></temp></step>
+            <step num="23"><action>Uncover</action> and <action>bake</action> for
+                        <time><quant>8-10</quant>
+                    <unit>minutes</unit></time>
+                <tip>until the crust is dark brown</tip>
+            </step><tip>Try to minimize the amount of time the oven door is open</tip>
+            <tip>The bread is done when its internal temperature
+                        register<temp><quant>205</quant><unit>degrees</unit></temp> on an
+                instant-read thermometer and the loaf sounds hollow when knocked on the
+                underside</tip>
+            <step num="24"><action>Transfer</action> the <ing>loaf </ing>to a <utensil>wire
+                    rack</utensil> to <action>cool for at least</action>
+                <time><quant>1</quant>
+                    <unit>hour</unit></time>
+                <action>before cutting</action></step></para>
+    </directions>
+</root>
