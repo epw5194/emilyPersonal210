@@ -1,0 +1,14 @@
+# XQuery Assignment 6 
+## Emily Wargo
+
+- I want to count the number of "li's" in "lg's" for collections in Beauty and the Beast 
+    - do i specify the count of li's first, then show the count of those for each lg, or do i command that for every lg, i count the numebr of li's? 
+   
+```
+xquery version "3.1";
+let $disney := collection('/db/disneySongs/BeautyAndTheBeast')
+let $lineGroup := $disney//lg 
+    for $l in $lineGroup
+    let $liCount := $l//li => count()
+   return $liCount
+```
